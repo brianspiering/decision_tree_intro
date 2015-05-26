@@ -16,7 +16,7 @@ digraph Tree {
 3 -> 7 ;
 8 [label="entropy = 0.0000\nsamples = 3\nvalue = [ 0.  0.  3.]", shape="box"] ;
 7 -> 8 ;
-9 [label="X[0] <= 6.9500\nentropy = 0.918295834054\nsamples = 3", shape="box"] ;
+9 [label="X[2] <= 5.4500\nentropy = 0.918295834054\nsamples = 3", shape="box"] ;
 7 -> 9 ;
 10 [label="entropy = 0.0000\nsamples = 2\nvalue = [ 0.  2.  0.]", shape="box"] ;
 9 -> 10 ;
